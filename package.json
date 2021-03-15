@@ -1,0 +1,23 @@
+{
+  "name": "drum-kit-app",
+  "version": "1.0.0",
+  "description": "PLay the drums!",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grozzrox/Drum-Kit-App.git"
+  },
+  "author": "Grozzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grozzrox/Drum-Kit-App/issues"
+  },
+  "homepage": "https://github.com/Grozzrox/Drum-Kit-App#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
